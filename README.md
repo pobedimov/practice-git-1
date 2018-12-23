@@ -1,1 +1,1 @@
-The repository for study GitHub world
+The repository to study GitHub world
